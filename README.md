@@ -1,4 +1,0 @@
-workonit
-========
-
-Try your best
